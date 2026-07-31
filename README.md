@@ -72,7 +72,7 @@ Personal portfolio website showcasing projects and skills.
 https://github.com/sitialiahh203-wq/my-portofolio
 
 </td>
-</tr>
+<td width="50%">
 </table>
 
   ## FEATURED PROJECTS
