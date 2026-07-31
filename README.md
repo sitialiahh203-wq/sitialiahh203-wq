@@ -16,3 +16,21 @@ I enjoy building software that solves real-world problems, especially in:
 - Web Development
 
 Currently learning by building real projects every day.
+
+## TECH STACK
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</p>
