@@ -1,21 +1,18 @@
+<h1 align="center">Hi, I'm Siti Aliah</h1>
+
+<h3 align="center">Learn. Build. Improve. Repeat.</h3>
+
 <p align="center">
-  <img src="assets/banner.png" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&color=58A6FF&lines=Artificial+Intelligence;Computer+Vision;Smart+City;Backend+Development;Always+Learning..." />
 </p>
 
-<div align="center">
+## ABOUT
 
-# Hi 👋 I'm Siti Aliah
+I'm an Smart City Information System student from Indramayu State Polytechnic.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Learn.+Build.+Improve.+Repeat.;Artificial+Intelligence+Enthusiast.;Smart+City+Developer.;Computer+Vision+Learner.;Always+Building+Something+New." />
+I enjoy building software that solves real-world problems, especially in:
 
-</div>
+- Smart City
+- Web Development
 
-
-## 👩‍💻 About Me
-
-- 🎓 Information Systems Student
-- 🏙 Interested in Smart City Technology
-- 🤖 Learning Artificial Intelligence
-- 📷 Exploring Computer Vision
-- 🌐 Building Web & IoT Projects
-- 🚀 Always improving through real projects
+Currently learning by building real projects every day.
