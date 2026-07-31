@@ -43,6 +43,42 @@ Currently learning by building real projects every day.
 - Backend Development
 - Cloud Computing
 
+  ## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Hand Tracker AI
+Hand tracking application using **Python, OpenCV, and MediaPipe** for real-time gesture detection.
+
+</td>
+
+<td width="50%">
+
+### 👤 Face Identity Scanner
+Face recognition project with futuristic identity verification interface.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏙 Smart City Dashboard
+Dashboard for monitoring Smart City data using modern web technologies.
+
+</td>
+
+<td width="50%">
+
+### 🌐 Portfolio Website
+Personal portfolio website showcasing projects and skills.
+
+</td>
+</tr>
+</table>
+
   ## FEATURED PROJECTS
 
 🚀 Smart City Dashboard
@@ -55,15 +91,6 @@ Currently learning by building real projects every day.
 
 💻 VPS Ubuntu Website
 
-  ## GITHUB STATS
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sitialiahh203-wq&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitialiahh203-wq&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 ## CONNECT
 
