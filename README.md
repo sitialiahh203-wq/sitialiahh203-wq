@@ -64,3 +64,14 @@ Currently learning by building real projects every day.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitialiah203-wq&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
+
+## CONNECT
+
+Email:
+sitialiah203@gmail.com
+
+GitHub:
+github.com/sitialiah203-wq
+
+Instagram:
+@sitiialiaahhh_
