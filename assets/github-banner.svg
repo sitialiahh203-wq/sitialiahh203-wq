@@ -1,0 +1,132 @@
+<svg width="1200" height="350" viewBox="0 0 1200 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+
+<linearGradient id="bg" x1="0" y1="0" x2="1200" y2="350">
+    <stop stop-color="#050816"/>
+    <stop offset="0.5" stop-color="#0B1B3A"/>
+    <stop offset="1" stop-color="#050816"/>
+</linearGradient>
+
+<linearGradient id="neon">
+    <stop stop-color="#00FFFF"/>
+    <stop offset="0.5" stop-color="#0066FF"/>
+    <stop offset="1" stop-color="#9B00FF"/>
+</linearGradient>
+
+<filter id="glow">
+    <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+    <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+</filter>
+
+
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" stroke="#00FFFF" stroke-opacity="0.08"/>
+</pattern>
+
+</defs>
+
+
+
+<rect width="1200" height="350" fill="url(#bg)"/>
+
+
+<rect width="1200" height="350" fill="url(#grid)"/>
+
+
+
+
+<path d="M-100 250 L400 50"
+stroke="url(#neon)"
+stroke-width="4"
+opacity="0.8"
+filter="url(#glow)"/>
+
+<path d="M0 300 L450 120"
+stroke="#00FFFF"
+stroke-width="2"
+opacity="0.5"/>
+
+
+
+
+<path d="M800 300 L1300 80"
+stroke="url(#neon)"
+stroke-width="5"
+opacity="0.9"
+filter="url(#glow)"/>
+
+<path d="M850 340 L1250 170"
+stroke="#00FFFF"
+stroke-width="2"
+opacity="0.5"/>
+
+
+
+
+<g opacity="0.4" stroke="#00FFFF">
+
+<path d="M100 80 H250 V120 H330"/>
+<circle cx="100" cy="80" r="5" fill="#00FFFF"/>
+
+<path d="M950 220 H1050 V180 H1150"/>
+<circle cx="1150" cy="180" r="5" fill="#00FFFF"/>
+
+</g>
+
+
+
+
+<text x="600" y="145"
+text-anchor="middle"
+fill="white"
+font-size="64"
+font-family="Arial, Helvetica, sans-serif"
+font-weight="bold"
+letter-spacing="5">
+SITI ALIAH
+</text>
+
+
+<text x="600" y="205"
+text-anchor="middle"
+fill="#00FFFF"
+font-size="28"
+font-family="Arial, Helvetica, sans-serif"
+letter-spacing="8">
+JUNIOR WEB DEVELOPER
+</text>
+
+
+<text x="600" y="260"
+text-anchor="middle"
+fill="#A8BFFF"
+font-size="18"
+font-family="Arial, Helvetica, sans-serif">
+ • JUNIOR WEB DEVELOPMENT 
+</text>
+
+
+
+
+<g fill="#00FFFF" filter="url(#glow)">
+
+<circle cx="180" cy="170" r="4"/>
+<circle cx="1020" cy="100" r="4"/>
+<circle cx="1080" cy="250" r="3"/>
+<circle cx="240" cy="260" r="3"/>
+
+</g>
+
+
+
+<rect x="250" y="300" width="700" height="2"
+fill="url(#neon)"
+filter="url(#glow)"/>
+
+
+</svg>
