@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="assets/github-banner.svg" width="100%">
+
+</div>
+
+<br>
+
 <h1 align="center">Hi, I'm Siti Aliah</h1>
 
 <h3 align="center">Learn. Build. Improve. Repeat.</h3>
