@@ -59,13 +59,6 @@ https://github.com/sitialiahh203-wq/handtracker.intro
 
 <td width="50%">
 
-### 🏙 Smart City Dashboard
-Dashboard for monitoring Smart City data using modern web technologies.
-
-</td>
-
-<td width="50%">
-
 ### 🌐 Portfolio Website
 Personal portfolio website showcasing projects and skills.
 
@@ -79,15 +72,9 @@ https://github.com/sitialiahh203-wq/my-portofolio
 
   ## FEATURED PROJECTS
 
-🚀 Smart City Dashboard
-
 🤖 Hand Tracker AI
 
-👁 Face Identity Scanner
-
 🌐 Portfolio Website
-
-💻 VPS Ubuntu Website
 
 
 ## CONNECT
