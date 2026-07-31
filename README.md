@@ -59,15 +59,6 @@ https://github.com/sitialiahh203-wq/handtracker.intro
 
 <td width="50%">
 
-### 👤 Face Identity Scanner
-Face recognition project with futuristic identity verification interface.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 ### 🏙 Smart City Dashboard
 Dashboard for monitoring Smart City data using modern web technologies.
 
