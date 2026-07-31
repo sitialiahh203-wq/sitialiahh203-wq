@@ -3,7 +3,7 @@
 <h3 align="center">Learn. Build. Improve. Repeat.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&color=58A6FF&lines=Artificial+Intelligence;Computer+Vision;Smart+City;Backend+Development;Always+Learning..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&color=58A6FF&lines=Smart+City;Backend+Development;Always+Learning..." />
 </p>
 
 ## ABOUT
