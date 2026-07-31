@@ -52,6 +52,9 @@ Currently learning by building real projects every day.
 ### 🤖 Hand Tracker AI
 Hand tracking application using **Python, OpenCV, and MediaPipe** for real-time gesture detection.
 
+**Repository:**
+https://github.com/sitialiahh203-wq/handtracker.intro
+
 </td>
 
 <td width="50%">
