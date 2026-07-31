@@ -6,11 +6,12 @@
 
 </div>
 
+
 ## 👩‍💻 About Me
 
-🎓 Information Systems Student
- 🏙 Interested in Smart City Technology
- 🤖 Learning Artificial Intelligence
- 📷 Exploring Computer Vision
- 🌐 Building Web & IoT Projects
- 🚀 Always improving through real projects
+- 🎓 Information Systems Student
+- 🏙 Interested in Smart City Technology
+- 🤖 Learning Artificial Intelligence
+- 📷 Exploring Computer Vision
+- 🌐 Building Web & IoT Projects
+- 🚀 Always improving through real projects
