@@ -42,3 +42,13 @@ Currently learning by building real projects every day.
 - Smart City Systems
 - Backend Development
 - Cloud Computing
+
+  ## GITHUB STATS
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sitialiah203-wq&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitialiah203-wq&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
