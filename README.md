@@ -43,6 +43,18 @@ Currently learning by building real projects every day.
 - Backend Development
 - Cloud Computing
 
+  ## FEATURED PROJECTS
+
+🚀 Smart City Dashboard
+
+🤖 Hand Tracker AI
+
+👁 Face Identity Scanner
+
+🌐 Portfolio Website
+
+💻 VPS Ubuntu Website
+
   ## GITHUB STATS
 
 <p align="center">
