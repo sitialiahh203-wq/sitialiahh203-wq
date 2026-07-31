@@ -34,3 +34,11 @@ Currently learning by building real projects every day.
 <img src="https://skillicons.dev/icons?i=github"/>
 
 </p>
+
+## CURRENTLY LEARNING
+
+- Artificial Intelligence
+- Machine Learning
+- Smart City Systems
+- Backend Development
+- Cloud Computing
